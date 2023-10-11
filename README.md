@@ -27,5 +27,3 @@
    <a href="https://www.instagram.com/invites/contact/?i=16xa46dufrzgq&utm_content=1me4v9t" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=larissavvsous&bg_color=282a36&color=8be9fd&line=ff91a4&point=ff91a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
