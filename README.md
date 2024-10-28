@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff839b&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Larissa+Sousa!;Hello,+my+name+is+Larissa+Sousa!)](https://git.io/typing-svg)
 
-- Atualmente estou estudando Ciência de Dados na UFC
+- Formada em Ciência de Dados pela UFC
 - Experiência em Python, R e SQL
 - Estudando Inglês e PowerBI
 
